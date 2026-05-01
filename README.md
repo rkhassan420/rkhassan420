@@ -11,6 +11,16 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 💡 Focused on Web Development, SaaS Applications, and AI Systems (RAG, Content Evaluation)
 
 ---
+---
+## 🛠 Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML, CSS  
+**Backend:** Django, Django REST Framework  
+**Database:** PostgreSQL, SQLite  
+**Tools & AI:** Git, GitHub, Postman, AI Systems (RAG)
+---
+
+---
 
 ## 🛠 Tech Stack
 
