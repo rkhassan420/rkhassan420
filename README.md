@@ -39,28 +39,20 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 ## 🔥 Featured Projects
 
 ### 🤖 AI & Intelligent Systems
-- Document RAG System – AI-powered document retrieval system  
 - AI Content Evaluator (Final Year Project) – Intelligent content analysis system  
+- Document RAG System – AI-powered document retrieval system  
 
 ### 📊 Business Applications
 - E-commerce Web Application – Full-stack shopping platform  
 - Food Ordering System – Order management system  
 
 ### ⚙️ Productivity Tools
+- Portfolio Website 
 - Notes App  
 - Task Manager  
 - Password Generator  
 - Age Calculator  
-- Random Allocation System  
-- Portfolio Website  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkhassan420&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkhassan420&theme=tokyonight" />
-</p>
+- Random Allocation System   
 
 ---
 
