@@ -11,6 +11,37 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 💡 Focused on Web Development, SaaS Applications, and AI Systems (RAG, Content Evaluation)
 
 ---
+## 🛠 Tech Stack
+
+<p align="center">
+
+<strong>Frontend</strong><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+<br/><br/>
+
+<strong>Backend</strong><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white"/>
+
+<br/><br/>
+
+<strong>Database</strong><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+
+<br/><br/>
+
+<strong>AI & Tools</strong><br/>
+<img src="https://img.shields.io/badge/AI%20Systems-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+
+</p>
 ---
 ## 🛠 Tech Stack
 
