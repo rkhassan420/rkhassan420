@@ -31,7 +31,7 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 ## 🔥 Featured Projects
 
 ### 🤖 AI & Intelligent Systems
-- AI Content Evaluator (Final Year Project) – Intelligent AI-based content classification system  
+- AI Content Evaluator (Final Year Project) – AI-based content analysis system for detecting and evaluating content quality. 🏆 Achieved 1st Position in University FYP Competition 
 - Document RAG System – Retrieval-Augmented Generation system for smart document querying  
 
 ### 📊 Business Applications
@@ -44,7 +44,7 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 - Task Manager – CRUD-based productivity tool  
 - Password Generator – Secure password creation tool  
 - Age Calculator – Simple utility app  
-- Random Allocation System – Fair distribution system  
+- AI-Powered Random Allocation System – Intelligent system for fair and automated allocation using AI logic
 
 ---
 
