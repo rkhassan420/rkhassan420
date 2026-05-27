@@ -33,10 +33,9 @@ I build scalable, user-focused web applications and AI-powered systems with clea
 ### 🤖 AI & Intelligent Systems
 - AI Content Evaluator (Final Year Project) – 🏆 Achieved 1st Position in University FYP Competition
   AI-based content analysis system for detecting and evaluating content quality. 
-- Document RAG System – Retrieval-Augmented Generation system for smart document querying  
+
 
 ### 📊 Business Applications
-- E-commerce Web Application – Full-stack shopping platform with authentication & cart system  
 - Food Ordering System – Order management system with admin dashboard  
 
 ### ⚙️ Productivity Tools
